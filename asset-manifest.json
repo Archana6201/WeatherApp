@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Archana6201/WeatherApp/static/css/main.001ea2e6.chunk.css",
+    "main.js": "/Archana6201/WeatherApp/static/js/main.5c983316.chunk.js",
+    "main.js.map": "/Archana6201/WeatherApp/static/js/main.5c983316.chunk.js.map",
+    "runtime-main.js": "/Archana6201/WeatherApp/static/js/runtime-main.9e2b3daf.js",
+    "runtime-main.js.map": "/Archana6201/WeatherApp/static/js/runtime-main.9e2b3daf.js.map",
+    "static/css/2.31f667de.chunk.css": "/Archana6201/WeatherApp/static/css/2.31f667de.chunk.css",
+    "static/js/2.795dd1fa.chunk.js": "/Archana6201/WeatherApp/static/js/2.795dd1fa.chunk.js",
+    "static/js/2.795dd1fa.chunk.js.map": "/Archana6201/WeatherApp/static/js/2.795dd1fa.chunk.js.map",
+    "index.html": "/Archana6201/WeatherApp/index.html",
+    "static/css/2.31f667de.chunk.css.map": "/Archana6201/WeatherApp/static/css/2.31f667de.chunk.css.map",
+    "static/css/main.001ea2e6.chunk.css.map": "/Archana6201/WeatherApp/static/css/main.001ea2e6.chunk.css.map",
+    "static/js/2.795dd1fa.chunk.js.LICENSE.txt": "/Archana6201/WeatherApp/static/js/2.795dd1fa.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.css": "/Archana6201/WeatherApp/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e2b3daf.js",
+    "static/css/2.31f667de.chunk.css",
+    "static/js/2.795dd1fa.chunk.js",
+    "static/css/main.001ea2e6.chunk.css",
+    "static/js/main.5c983316.chunk.js"
+  ]
+}
