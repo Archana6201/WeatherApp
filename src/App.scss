@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+//@import url("https://cdnjs.cloudflare.com/ajax/libs/open-weather/2.0.0/openweather.min.js");
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+.main-container {
+  background-color: #2d2e2e;
+  font-family: "Roboto", sans-serif;
+  overflow: hidden;
+  height: 100vh;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  input {
+    margin-top: 30px;
+    width: 300px;
+    height: 28px;
+    border: none;
+    padding-left: 10px;
+    border-bottom: 1px solid #00b3b3;
+  }
+  button {
+    border: none;
+    height: 28px;
+    width: 60px;
+    margin-top: 30px;
+    background-color: #00e6e6;
+  }
+}
+.Info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .Info-container {
+    margin-top: 20px;
+    border-radius: 14px;
+    background-color: white;
+    height: 70vh;
+    width: 50vw;
+  }
+  .icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    width: 100%;
+    height: 140px;
+    border-radius: 14px;
+    background-color: snow;
+  }
+  i {
+    font-size: 80px;
+  }
+}
+.weather-info {
+  display: flex;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 10px;
+  height: 120px;
+  background-color: #00b3b3;
+  .temperature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 30%;
+    span{
+        font-size: 40px;
+    }
+  }
+  .discription {
+    padding-top: 30px;
+    padding-left: 30px;
+    background-color: black;
+    color: white;
+    width: 50%;
+    .weather-condition{
+        font-size: 22px;
+    }
+    .place{
+       font-size: 14px;
+    }
+  }
+  .date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 20%;
+    font-weight: 1000;
+    padding-left: 10px;
+  }
+}
+.extra-Info {
+  display: flex;
+  .minmaxInfo 
+    {
+    display: flex;
+    .two-side-section 
+      {
+      display: flex;
+      margin-top: 30px;
+      p 
+       {
+        margin-left: 20px;
+        i 
+        {
+          font-size: 30px;
+          color: #00b3b3;
+        }
+      }
+    }
+  }
+}
